@@ -1,2 +1,2 @@
-# Zero-to-Hero-Analytics-Program
+# Zero-to-Hero-Learning
 Learning classes
